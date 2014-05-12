@@ -615,7 +615,7 @@ bool FusedLasso::runFusedGeneral(penEnum penType) {
 	    }
         }
         else {
-	  error("Invalid regression type\n");exit(1);
+	  error("Invalid regression type\n");
         }
 
         if(quadDer -> isExtreme()) {

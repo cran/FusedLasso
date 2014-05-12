@@ -1,4 +1,4 @@
-af6bbfcbe64ee3d0d74bda62588e936e *DESCRIPTION
+59ac57e3e30c2b4676f013b40c73f9f3 *DESCRIPTION
 72d9143cd0056edc39a48bf300b5f2d1 *NAMESPACE
 65bc1d847a3624c61c501678aac4b7e6 *R/fusedlasso.R
 c3222e97e9695a16bf959f6f5b0cefa5 *R/lasso.R
@@ -10,7 +10,7 @@ e173e29eac91218e002dd3c060bc7194 *man/fusedlassoMaxLambdas.Rd
 39c0d4c73a0cca916a52ff37ca52e5ce *man/lasso.Rd
 347f64eea6b014247a11fb7d5e33d471 *man/testData.Rd
 69f02348f8d83fb4538ab9894782ed46 *src/Exceptions.h
-985aacd73cdab69612b22cc6dc31da3c *src/FusedLasso.cc
+79217444100d95e77f514e60b31b60d8 *src/FusedLasso.cc
 6eb4c0c7d249039f07df22c6f2739e0e *src/FusedLasso.h
 1bc858c1fbf7b8811dd7aeefd20e68cd *src/FusedLassoCoordinate.cc
 e7d478e26d3aaae55e21fa43ef107786 *src/FusedLassoCoordinate.h

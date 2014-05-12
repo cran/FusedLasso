@@ -1,7 +1,7 @@
 Package: FusedLasso
 Type: Package
 Title: Solves the generalized Fused Lasso
-Version: 1.0.5
+Version: 1.0.6
 Date: 2014-05-12
 Author: Holger Hoefling
 Maintainer: Holger Hoefling <hhoeflin@gmail.com>
@@ -10,7 +10,7 @@ License: GPL-3
 Copyright: Holger Hoefling
 LazyLoad: yes
 Depends: Matrix
-Packaged: 2014-05-17 19:02:51 UTC; hhoeflin
+Packaged: 2014-05-19 16:45:59 UTC; hhoeflin
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2014-05-17 22:52:17
+Date/Publication: 2014-05-20 07:33:27
