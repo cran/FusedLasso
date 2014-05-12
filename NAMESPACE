@@ -1,0 +1,7 @@
+useDynLib(FusedLasso)
+import(Matrix)
+export(fusedlasso)
+export(fusedlassoMaxLambdas)
+export(lasso)
+export(graphlassoL2)
+

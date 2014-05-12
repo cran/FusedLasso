@@ -1,0 +1,16 @@
+Package: FusedLasso
+Type: Package
+Title: Solves the generalized Fused Lasso
+Version: 1.0.5
+Date: 2014-05-12
+Author: Holger Hoefling
+Maintainer: Holger Hoefling <hhoeflin@gmail.com>
+Description: Solves the Fused Lasso for linear models. The methodology is implemented for regular linear models as well as for binomial endpoints.
+License: GPL-3
+Copyright: Holger Hoefling
+LazyLoad: yes
+Depends: Matrix
+Packaged: 2014-05-17 19:02:51 UTC; hhoeflin
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2014-05-17 22:52:17
